@@ -10,6 +10,8 @@
 
 - [action-zip](https://github.com/montudor/action-zip) - GitHub Action for zipping files during workflows
 - [django-oidc-user](https://github.com/montudor/django-oidc-user) - Django custom user model designed for use with [juanifioren/django-oidc-provider](https://github.com/juanifioren/django-oidc-provider)
+- [python-publish-workflow](https://github.com/actions/starter-workflows/blob/57d97826a2f4fcd7933825b1822562648e444400/ci/python-publish.yml) - GitHub workflow template for publishing PyPI packages
+- [repository-templates](https://github.com/repository-templates) - A collection of pre-configured repository templates for fast project setup
 
 And more coming soon...
 
